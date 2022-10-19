@@ -23,5 +23,13 @@ Work for Question 2:
 ## Question 3 
 ### Are there groups of customers that would be a better fit for a different lender? How much incremental revenue could we have made if we matched certain groups of customers more appropriately?
 
-There are some groups that are very visibly a better fit for a different lender. Customers that make an income in excess of $8000 with a FICO score category of very good or excellent that applied for Lender A or C would be a better fit for Lender B. Customers that have a credit score that is very good or excellent but have bakrupted or foreclosed and applied for Lender B or C would be a better fit for Lender A. Aditionally customers with a fair or poor credit score that applied for Lender B or A would be a better fit for Lender C. 
+There are some groups that are very visibly a better fit for a different lender. Customers that make an income in excess of $8000 with a FICO score category of very good or excellent that applied for Lender A or C and did not have a bankruptcy or foreclosure would be a better fit for Lender B. Customers with a fair or poor credit score that applied for Lender B or A would be a better fit for Lender C. 
 
+There are some other groups that would fit better with a different lender, such as applicants with a very good or excellent credit score and a bankrupt/forclose that applied to Lender B instead of Lender A, but these groups are not significant enough to make much of an impact on revenue.
+
+Taking into account for average approval rate, moving the first aforementioned category increases the revenue by roungly $80,459. Moving the second category increases the revenue by roughly $468,210. 
+
+In total the incremental increased revenue would be around $548,669.
+
+Work for Question 3:
+<img src="img3.png" title="Comparison of Groups">
