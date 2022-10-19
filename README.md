@@ -31,7 +31,7 @@ There are some other groups that would fit better with a different lender, such 
 
 Taking into account for average approval rate, moving the first aforementioned category increases the revenue by roungly $80,459. Moving the second category increases the revenue by roughly $468,210. 
 
-In total the incremental increased revenue would be around $548,669.
+In total the incremental increased revenue would be around **$548,669**.
 
 Work for Question 3:
 <img src="img3.png" title="Comparison of Groups">
