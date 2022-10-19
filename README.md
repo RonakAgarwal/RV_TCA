@@ -19,3 +19,9 @@ There are some clear differences between the type of customers each lender appro
 
 Work for Question 2:
 <img src="img2.png" title="Comparison of Lenders">
+
+## Question 3 
+### Are there groups of customers that would be a better fit for a different lender? How much incremental revenue could we have made if we matched certain groups of customers more appropriately?
+
+There are some groups that are very visibly a better fit for a different lender. Customers that make an income in excess of $8000 with a FICO score category of very good or excellent that applied for Lender A or C would be a better fit for Lender B. Customers that have a credit score that is very good or excellent but have bakrupted or foreclosed and applied for Lender B or C would be a better fit for Lender A. Aditionally customers with a fair or poor credit score that applied for Lender B or A would be a better fit for Lender C. 
+
