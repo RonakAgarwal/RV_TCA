@@ -15,7 +15,7 @@ Lender A has an average approval rate of 10.99%, Lender B has an average approva
 
 Lender A has a revenue per approval of 250, Lender B has a revenue per approval of 350, and Lender C has a revenue per approval of 150.
 
-There are some clear differences between the type of customers each lender approves. Lender B tends to approve those with a higher FICO score, and does not approve any applicant with a FICO Category of "Poor" whatsoever, nor do they approve applicants who have ever bankrupted or forclosed. Lender B also approves those with a higher monthly income, whereas Lender C approves those with a slightly lower monthly income. Lender C tends to approve applicants with a lower monthly housing payment than the other lenders as well. 
+There are some clear differences between the type of customers each lender approves. Lender B tends to approve those with a higher FICO score, and does not approve any applicant with a FICO Category of "Poor" whatsoever, nor do they approve applicants who have ever bankrupted or forclosed. Lender B also approves those with a higher monthly income, whereas Lender C approves those with a lower monthly income. Lender C tends to approve applicants with a lower monthly housing payment than the other lenders as well. 
 
 Work for Question 2:
 <img src="img2.png" title="Comparison of Lenders">
